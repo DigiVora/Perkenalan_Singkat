@@ -26,6 +26,7 @@ public class Perkenalan_Singkat {
         System.out.println("Prodi   \t\t: Sistem Informasi");
         System.out.println("Alamat  \t\t: Nganjuk,Jawa Timur");
         System.out.println("No. WhatshApp \t\t: 0831-1615-2891");
+        System.out.println("Intagram    \t\t: @digivora.studio");
     }
     
 }
